@@ -5,11 +5,10 @@ public:
         for(auto x:arr){
             m[x]++;
         }
-        vector<int>v;
-        for(auto x:m){
-            v.push_back(x.second);
-        }
-        set<int>s(v.begin(),v.end());
-        return s.size()==v.size();
+        set<int>s;
+        for(auto i:m)
+            s.insert(i.second);
+        //(m.begin(),m.end());
+        return s.size()==m.size();
     }
 };
