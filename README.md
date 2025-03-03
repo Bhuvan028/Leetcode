@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhuvan028/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Bhuvan028/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhuvan028/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Bhuvan028/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
