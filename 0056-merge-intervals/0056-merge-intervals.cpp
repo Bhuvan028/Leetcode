@@ -1,21 +1,14 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& iv) {
-        vector<vector<int>> ans;
-        sort(iv.begin(),iv.end());
-        for(int i=0;i<iv.size();i++){
-            if(ans.empty()){
-                ans.push_back(iv[i]);
+    vector<vector<int>> merge(vector<vector<int>>& arr) {
+        vector<vector<int>>ans;
+        sort(arr.begin(),arr.end());
+        for(int i=0;i<arr.size();i++){
+            if(ans.empty() || arr[i][0]>ans.back()[1]){
+                ans.push_back(arr[i]);
             }
             else{
-                vector<int>&v=ans.back();
-                int y=v[1];
-                if(y>=iv[i][0]){
-                    v[1]=max(y,iv[i][1]);
-                }
-                else{
-                    ans.push_back(iv[i]);
-                }
+                ans.back()[1]=max(arr[i][1],ans.back()[1]);
             }
         }
         return ans;
