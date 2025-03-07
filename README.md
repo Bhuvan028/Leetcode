@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvan028/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Bhuvan028/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Bhuvan028/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
