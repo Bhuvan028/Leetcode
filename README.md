@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bhuvan028/Leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/Bhuvan028/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
+| [0792-binary-search](https://github.com/Bhuvan028/Leetcode/tree/master/0792-binary-search) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhuvan028/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Bhuvan028/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Bhuvan028/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
