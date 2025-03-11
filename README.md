@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bhuvan028/Leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/Bhuvan028/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/Bhuvan028/Leetcode/tree/master/0792-binary-search) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhuvan028/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhuvan028/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Bhuvan028/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Bhuvan028/Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvan028/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Bhuvan028/Leetcode/tree/master/0792-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
