@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Bhuvan028/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bhuvan028/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Bhuvan028/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/Bhuvan028/Leetcode/tree/master/0792-binary-search) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Bhuvan028/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhuvan028/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Bhuvan028/Leetcode/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Bhuvan028/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
 ## Counting
