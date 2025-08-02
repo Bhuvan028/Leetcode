@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhuvan028/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvan028/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhuvan028/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Bhuvan028/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhuvan028/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
+| [2689-rearranging-fruits](https://github.com/Bhuvan028/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhuvan028/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
+| [2689-rearranging-fruits](https://github.com/Bhuvan028/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Counting
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Bhuvan028/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
+| [2689-rearranging-fruits](https://github.com/Bhuvan028/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Memoization
 |  |
 | ------- |
