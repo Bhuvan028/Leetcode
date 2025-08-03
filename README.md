@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhuvan028/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Bhuvan028/Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvan028/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhuvan028/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvan028/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhuvan028/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Bhuvan028/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Bhuvan028/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Bhuvan028/Leetcode/tree/master/0152-maximum-product-subarray) |
