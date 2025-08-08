@@ -63,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhuvan028/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvan028/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Bhuvan028/Leetcode/tree/master/0647-palindromic-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Bhuvan028/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhuvan028/Leetcode/tree/master/0070-climbing-stairs) |
+| [2032-largest-odd-number-in-string](https://github.com/Bhuvan028/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhuvan028/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bhuvan028/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Number Theory
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Bhuvan028/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
+| [2032-largest-odd-number-in-string](https://github.com/Bhuvan028/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2689-rearranging-fruits](https://github.com/Bhuvan028/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Memoization
 |  |
