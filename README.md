@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhuvan028/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Bhuvan028/Leetcode/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Bhuvan028/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhuvan028/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bhuvan028/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Bhuvan028/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Bhuvan028/Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhuvan028/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Bhuvan028/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
