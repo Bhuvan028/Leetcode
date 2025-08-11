@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhuvan028/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvan028/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bhuvan028/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2529-range-product-queries-of-powers](https://github.com/Bhuvan028/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Bhuvan028/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Bhuvan028/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Bhuvan028/Leetcode/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/Bhuvan028/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bhuvan028/Leetcode/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/Bhuvan028/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
