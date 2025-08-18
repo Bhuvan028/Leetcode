@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhuvan028/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvan028/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2689-rearranging-fruits](https://github.com/Bhuvan028/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sorting
 |  |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bhuvan028/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Bhuvan028/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvan028/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Bhuvan028/Leetcode/tree/master/0455-assign-cookies) |
 | [2689-rearranging-fruits](https://github.com/Bhuvan028/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bhuvan028/Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvan028/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhuvan028/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvan028/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvan028/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Bhuvan028/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Bhuvan028/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
@@ -144,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/Bhuvan028/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvan028/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvan028/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
